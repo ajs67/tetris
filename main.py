@@ -1,3 +1,8 @@
+#TODO
+# Add pygame window
+
+
+
 import pygame
 import random
 
