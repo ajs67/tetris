@@ -1,5 +1,6 @@
 #TODO
 # Add pygame window
+# Fix Shape formats
 
 
 
